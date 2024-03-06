@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "nitropack": "latest"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
   }
 }
